@@ -1,0 +1,9 @@
+artifact_location: file:///c:/Users/zoran/OneDrive/Desktop/telco-customer-churn/notebooks/../mlruns/233093494630844289
+creation_time: 1791134393779
+effective_trace_archival_retention: null
+experiment_id: '233093494630844289'
+last_update_time: 1791134393779
+lifecycle_stage: active
+name: Telco Churn - LightGBM
+trace_location: null
+workspace: default

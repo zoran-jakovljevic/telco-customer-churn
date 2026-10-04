@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/zoran/OneDrive/Desktop/telco-customer-churn/notebooks/../mlruns/233093494630844289/29e5fe72ed814e1487c3cdc8e86b8367/artifacts
+end_time: 1791134413583
+entry_point_name: ''
+experiment_id: '233093494630844289'
+lifecycle_stage: active
+run_id: 29e5fe72ed814e1487c3cdc8e86b8367
+run_name: nebulous-cat-568
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1791134394348
+status: 3
+tags: []
+user_id: zoran

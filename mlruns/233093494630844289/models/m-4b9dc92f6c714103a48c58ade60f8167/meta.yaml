@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/zoran/OneDrive/Desktop/telco-customer-churn/notebooks/../mlruns/233093494630844289/models/m-4b9dc92f6c714103a48c58ade60f8167/artifacts
+creation_timestamp: 1791134394583
+experiment_id: '233093494630844289'
+last_updated_timestamp: 1791134413558
+model_id: m-4b9dc92f6c714103a48c58ade60f8167
+model_type: null
+name: model
+source_run_id: 29e5fe72ed814e1487c3cdc8e86b8367
+status: 2
+status_message: null
